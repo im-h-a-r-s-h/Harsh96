@@ -31,8 +31,9 @@
 🚀 Love building real-world apps — ImageGenie, Atithya, ChatNest  
 🧠 Strong understanding of **DSA, DBMS, OS, OOPS**  
 📸 Working on **Alzheimer Detection** and **3D medical reconstruction**  
-📬 Reach me at **2k22.cse.2213543@gmail.com**
 🌱 Currently learning Machine Learning and Spring Boot
+📬 Reach me at **2k22.cse.2213543@gmail.com**
+
 
 ---
 
