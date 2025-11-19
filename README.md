@@ -26,9 +26,8 @@
 
 ## ✨ About Me
 
-🎓 **B.Tech (CSE)** | PSIT Kanpur — **CGPA: 8.5/10**  
-💡 MERN Stack Developer & Machine Learning Explorer  
-🚀 Love building real-world apps — ImageGenie, Atithya, ChatNest  
+🎓 **B.Tech (CSE)** | PSIT Kanpur - **CGPA: 8.5/10**  
+🚀 Love building real-world apps - ImageGenie, Atithya, ChatNest  
 🧠 Strong understanding of **DSA, DBMS, OS, OOPS**  
 📸 Working on **Alzheimer Detection** and **3D medical reconstruction**  
 🌱 Currently learning Machine Learning and Spring Boot
